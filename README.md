@@ -24,8 +24,8 @@ Junction table for prescriptions and medications
 Manages financial transactions
 
 Views
-DoctorSchedules
-Provides an overview of doctor appointments
+1.DoctorSchedules
+2.Provides an overview of doctor appointments
 CREATE VIEW DoctorSchedules AS
 SELECT 
     d.doctor_id,
